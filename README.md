@@ -1,6 +1,6 @@
 # IntelEducationRuntime
 
-Driver ISCM e Intel Education Framework 3.2.1 .
+Driver ISCM e Intel Education Runtime 3.2.1 .
 
 El controlador se debe instalar desactivado el uso obligatorio de controladores firmados.
 
